@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://usamireko.github.io/"><img src="https://img.shields.io/badge/website-000000?style=flat&logo=githubpages&logoColor=ff77ff" /></a>
+  <a href="https://usamireko.dev"><img src="https://img.shields.io/badge/website-000000?style=flat&logo=githubpages&logoColor=ff77ff" /></a>
   <a href="https://x.com/_usamireko"><img src="https://img.shields.io/badge/twitter-000000?style=flat&logo=x&logoColor=77ccff" /></a>
 </p>
 
