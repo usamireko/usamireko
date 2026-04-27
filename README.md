@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h2 align="center" style="color:#ff00cc;">✨ welcome to my corner of github ✨</h2>
+<h2 align="center" style="color:#ff00cc;"> welcome to my corner of github </h2>
 
 <p align="center" style="color:#cccccc;">
   wannabe ai researcher · synths & signals · chasing audio ghosts
@@ -18,14 +18,11 @@
 
 ### 🧪 current obsessions
 
-- 🔭 **I’m currently working on** Diffusion-based vocalists (Like Vocaloid, but cooler!)
-- 🌱 **I’m currently learning** more Python, web development, C#, etc.
-- 👯 **I’m looking to collaborate on** any project that looks interesting.
-
-- 💬 **Ask me about** MikuMikuMikuMikuMikuMik-
-- 📫 **How to reach me:** on X, link above.
-- 😄 **Pronouns:** Lets keep them a secret.
-- ⚡ **Fun fact:** People sometimes says I am older or younger of what truly am
+-  **I’m currently working on** Diffusion-based vocalists (Like Vocaloid, but cooler!)
+-  **I’m currently learning** more Python, web development, C#, etc.
+-  **I’m looking to collaborate on** any project that looks interesting.
+-  **How to reach me:** on X, link above.
+-  **Fun fact:** People sometimes says I am older or younger of what truly am
 
 ---
 
